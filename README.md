@@ -3,9 +3,9 @@
 In this activity... 
 
 ## Team Members
-David Jonathan 
-Nara
-Israel Fernandez
+1. David Jonathan 
+2. Nara
+3. Israel Fernandez
 
 ## Project Descriptions
 
