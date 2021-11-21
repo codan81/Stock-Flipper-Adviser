@@ -6,6 +6,7 @@ import alpaca_trade_api as tradeapi
 import datetime as dt
 import pytz
 from tqdm import tqdm_notebook
+from tqdm.notebook import tqdm
 
 class MCSimulation:
     """
@@ -91,8 +92,9 @@ class MCSimulation:
         portfolio_cumulative_returns = pd.DataFrame()
         
         # Run the simulation of projecting stock prices 'nSim' number of times
-        print(f"Running Monte Carlo simulation number:")
-        for n in tqdm_notebook(range(self.nSim)):
+        #print(f"Running Monte Carlo simulation:")
+        #for n in tqdm_notebook(range(self.nSim)):
+        for n in tqdm(range(self.nSim), leave=False):
         
             # Reduce screen clutter by showing loop progress on the same line,
             # with a newline every 100 loops. 
