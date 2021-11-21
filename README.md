@@ -47,7 +47,7 @@ To use the Portfolio Advisor application simply open gitbash terminala and type:
     
 ```
 
-Upon launching the loan qualifier application you will be greeted with the following prompts.
+Upon launching the Portfolio Advisor application you will be greeted with the following prompts.
 
 ![Voila_portfolio_advisor_Prompts](images/Screen_Shot_1.png)
 ![Voila_portfolio_advisor_Prompts](images/Screen_Shot_2.png)
@@ -61,7 +61,9 @@ Upon launching the loan qualifier application you will be greeted with the follo
 ## Contributors
 
 David Jonathan
+
 Israel Fernandez
+
 Nara Arakelyan
 
 ---
