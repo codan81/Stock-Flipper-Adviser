@@ -40,7 +40,7 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-To use the Portfolio Advisor application simply open gitbash terminala and type:
+To use the Portfolio Advisor application simply open gitbash terminal and type:
 
 ```
     voila portfolio_advisor.ipynb
