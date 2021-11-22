@@ -54,7 +54,9 @@ Upon launching the Portfolio Advisor application you will be greeted with the fo
 ![Voila_portfolio_advisor_Prompts](images_video/Screen_Shot_3.png)
 
 ---
-[Recording of portfolio_advisor in action](images_video/Screen_Recording.mov)
+
+[Recording of portfolio_advisor in action](https://youtu.be/hEYCvOuo3sQ)
+
 ---
 
 ## Contributors
