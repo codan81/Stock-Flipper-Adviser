@@ -50,7 +50,7 @@ _Note:_ You should have a “.env” file in the same directory with the followi
 
 ALPACA_API_KEY = "Yout Alpaca API key"
 
-ALPACA_API_SECRET_KEY = "Your Alpaca API Secret key"
+ALPACA_SECRET_KEY = "Your Alpaca API Secret key"
 
 Upon launching the Portfolio Advisor application you will be greeted with the following prompts.
 
