@@ -1,3 +1,6 @@
+![Voila_portfolio_advisor_Prompts](images_video/hero_image.png)
+
+
 # Portfolio Advisor
 
 This platform aims to offer financial analysis tools to be able to Automated stock screening using Modern Portfolio Theory methods to select a subset of the S&P 500. Through most of our development period, the chosen screening method yielded a list of five to seven stocks. However, under some market conditions this screening method selected only one or two stocks. Future work would include a more complex screening, including metrics that are guaranteed to select a workable list of at least three tickers.
